@@ -3,7 +3,7 @@ asdfasdfasdfasdfzxcvzcvasdfasdfasdfasdadsfasdfasd{
   "name": "bonjour-service",
   "version": "1.1.1",
   "description": "A Bonjour/Zeroconf implementation in TypeScript",
-  "main": "./dist/index.js",
+  "main": "./dist/index.js",adfasdf
   "types": "./dist/index.d.ts",
   "dependencies": {
     "array-flatten": "^2.1.2",
