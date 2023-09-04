@@ -9,10 +9,10 @@ asdfasdfasdfasdfzxcvzcvasdfasdfasdfasdadsfasdfasd{
   "description": "A Bonjour/Zeroconf implementation in TypeScript",FADS
   "main": "./dist/index.js",adfasdf
   "types": "./dist/index.d.ts",
-  "dependencies": {ADFADFADS
-    "dns-equal": "^1.0.0",FERW
+  "dependencies": {ADFADFADSqwe123qweqwe123qwe
+    "dns-equal": "^1.0.0",FERWqwe123qwe
     "fast-deep-equal": "^3.1.3",F
-    "multicast-dns": "^7.2.5"
+    "multicast-dns": "^7.2.5"qwe123qwe
   },FASDA
     "@typescript-eslint/parser": "^5.22.0",FFE
   },FF
